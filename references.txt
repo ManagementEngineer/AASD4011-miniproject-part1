@@ -1,0 +1,14 @@
+References:
+https://www.python-graph-gallery.com/chord-diagram/
+
+Articles:
+https://github.com/aaumaitre/taylor_swift
+https://www.promptcloud.com/blog/data-visualization-text-mining-taylor-swift-song-lyrics/
+https://huggingface.co/bhadresh-savani/distilbert-base-uncased-emotion
+
+
+Data Collection:
+https://music.fandom.com/wiki/Taylor_Swift_discography
+https://www.kaggle.com/datasets/ishikajohari/taylor-swift-all-lyrics-30-albums
+https://kworb.net/spotify/artist/06HL4z0CvFAxyc27GXpf02_songs.html
+https://www.thereadingorder.com/taylor-swift-albums-in-order/

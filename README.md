@@ -1,2 +1,2 @@
-# AASD4011-miniproject-part1
-Part 1 of the Miniproject for AASD4011
+# AASD4011-miniproject
+Miniproject for AASD4011
